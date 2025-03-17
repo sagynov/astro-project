@@ -1,0 +1,56 @@
+{
+    "projects": [
+        {
+            "image": "/projects/1.jpg",
+            "title": "Interior Trim Woodwork",
+            "slug": "project-1",
+            "description": "CA Custom Homes, your premier destination for creating exquisite custom-built structures that elevate the aesthetics and functionality of your living spaces. With a meticulous attention to detail, expert craftsmanship, and an unwavering commitment to client satisfaction, we specialize in delivering exceptional custom trim work, woodworking, cabinets, and decks that surpass your highest expectations..",
+            "gallery": [
+                {
+                    "src": "/projects/1.jpg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                }
+            ]
+        },
+        {
+            "image": "/projects/2.jpg",
+            "title": "Custom Structures",
+            "slug": "project-2",
+            "description": "Description 2",
+            "gallery": [
+                {
+                    "src": "/projects/2.jpg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                }
+            ]
+        },
+        {
+            "image": "/projects/3.jpg",
+            "title": "Amazing Final Constructions",
+            "slug": "project-3",
+            "description": "Description 3",
+            "gallery": [
+                {
+                    "src": "/projects/3.jpg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                }
+            ]
+        },
+        {
+            "image": "/projects/4.jpg",
+            "title": "An opportunity to transform",
+            "slug": "project-4",
+            "description": "Description 4",
+            "gallery": [
+                {
+                    "src": "/projects/4.jpg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                }
+            ]
+        }
+    ]
+}

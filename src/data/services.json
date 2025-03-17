@@ -1,0 +1,22 @@
+{
+    "services": [
+        {
+            "image": "/services/1.jpg",
+            "title": "Remodeling and Renovations",
+            "slug": "service-1",
+            "description": "Exterior - Interior, Kitchens, Bathrooms, General Home Improvement, Historic Building Restoration and Consulting."
+        },
+        {
+            "image": "/services/2.jpg",
+            "title": "Maintenance and Repairs",
+            "slug": "service-2",
+            "description": "HVAC, Home Automation, Gutter and Roof Cleaning, Painting / Staining / Sealing, Tiling & Grout / Masonry, Pool and Pool Area, Landscaping."
+        },
+        {
+            "image": "/services/3.jpg",
+            "title": "Additions",
+            "slug": "service-3",
+            "description": "Single Rooms, Entire Wings, Garages, Special Purpose Buildings."
+        }
+    ]
+}
