@@ -1,5 +1,5 @@
 ---
-import GalleryList from "./GalleryList.vue";
+import GalleryHomeList from "./GalleryHomeList.vue";
 import { getCollection } from 'astro:content';
 const gallery = await getCollection('gallery');
 ---
@@ -7,5 +7,5 @@ const gallery = await getCollection('gallery');
     <div class="mb-4">
 		<h3 class=" font-medium uppercase">Gallery</h3>
 	</div>
-    <GalleryList gallery={gallery}  client:load />
+    <GalleryHomeList gallery={gallery}  client:load />
 </div>

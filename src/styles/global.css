@@ -9,10 +9,10 @@ body {
 	font-family: 'din-condenced-web', sans-serif;
 	overflow-x: hidden!important;
 	font-size: 20px;
+	color: #171717;
 }
 h3 {
 	font-size: 22px;
-    color: #ffffff;
     font-weight: 500;
     position: relative;
     margin-top: 24px;
@@ -48,12 +48,7 @@ h3:before {
 	visibility: visible;
 }
 
-.p-galleria {
-	border-style: none!important;
-}
-.p-galleria-thumbnails-content {
-	background: transparent!important;
-}
+
 
 .p-button {
 	background: #ff5e14!important;
@@ -68,4 +63,11 @@ h3:before {
 .p-button:hover {
 	background-color: #171717!important;
 	border: 2px solid #ff5e14!important;
+}
+.p-image img {
+	@apply  object-fill h-[150px] sm:h-[300px];
+}
+
+.p-inputtext:enabled:focus, .p-textarea:enabled:focus {
+	border-color: #171717!important;
 }

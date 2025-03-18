@@ -3,6 +3,6 @@ import FaqList from './FaqList.vue';
 import { getCollection } from 'astro:content';
 const faqs = await getCollection('faqs');
 ---
-<div class="bg-[#171717]">
+<div class="">
     <FaqList tabs={faqs} client:load />
 </div>

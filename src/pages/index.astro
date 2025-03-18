@@ -9,7 +9,8 @@ import ProjectList from '../components/ProjectList.astro';
 import Services from '../components/Services.astro';
 import Contact from '../components/Contact.astro';
 import FAQ from '../components/Faq.astro';
-import Gallery from '../components/Gallery.astro';
+import Who from '../components/Who.astro';
+import GalleryHome from '../components/GalleryHome.astro';
 
 
 ---
@@ -21,13 +22,14 @@ import Gallery from '../components/Gallery.astro';
 	</head>
 	<body>
 		<Header />
-		<div class="bg-[#171717]">
+		<div>
 			<About />
 			<ProjectList />
+			<Who />
 			<Services />
-			<FAQ />
+			<GalleryHome />
 			<Contact />
-			<Gallery />
+			<FAQ />
 		</div>
 		<Footer />
 	</body>

@@ -13,7 +13,7 @@ const props = defineProps<{
 <template>
 	<div class="p-4 sm:p-12">
 		<div class="mb-4">
-			<h3 class="text-white font-medium uppercase">FAQS</h3>
+			<h3 class="font-medium uppercase">FAQS</h3>
 		</div>
 		<div>
 			<Accordion value="0">

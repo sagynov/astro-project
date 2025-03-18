@@ -4,12 +4,12 @@ const services = await getCollection('services');
 ---
 <div class="p-4 sm:p-12">
 	<div class="mb-4">
-		<h3 class="text-white font-medium uppercase">Services</h3>
-		<p class="text-white">CA Custom Homes, your premier destination for creating exquisite custom-built structures that elevate the aesthetics and functionality of your living spaces.</p>
+		<h3 class=" font-medium uppercase">Services</h3>
+		<p class="">CA Custom Homes, your premier destination for creating exquisite custom-built structures that elevate the aesthetics and functionality of your living spaces.</p>
 	</div>
     <div class="grid sm:grid-cols-3 gap-4 sm:gap-6">
         {services.map(project => (
-            <div class="flex flex-col text-white">
+            <div class="flex flex-col ">
                 <div class="text-center">
                     <img class="rounded-xl" src={project.data.image} alt={project.data.title}>
                 </div>

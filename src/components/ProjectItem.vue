@@ -28,7 +28,7 @@ const responsiveOptions = ref([
             </template>
         </Galleria>
     </div>
-    <div class="text-white mb-4">
+    <div class=" mb-4">
         <div class="font-medium">PROJECT NAME:</div> 
         <div>{{ props.data.title }}</div>
         <div class="font-medium mt-2">PROJECT DESCRIPTION:</div> 

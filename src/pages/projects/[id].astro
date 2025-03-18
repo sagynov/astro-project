@@ -16,7 +16,7 @@ const { project } = Astro.props;
 const { Content } = await render(project);
 ---
 <Layout title={project.data.title} description={project.data.description}>
-  <div class="grid bg-[#171717] p-4 sm:p-12">
+  <div class="grid p-4 sm:p-12">
     <ProjectItem data={project.data} client:load />
     <Content />
   </div>
