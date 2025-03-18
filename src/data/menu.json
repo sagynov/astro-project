@@ -1,0 +1,39 @@
+{
+    "menu": [
+        {
+            "name": "Home",
+            "slug": "home",
+            "link": "/"
+        },
+        {
+            "name": "About us",
+            "slug": "about-us",
+            "link": "/about"
+        },
+        {
+            "name": "Projects",
+            "slug": "projects",
+            "link": "/projects"
+        },
+        {
+            "name": "Services",
+            "slug": "services",
+            "link": "/services"
+        },
+        {
+            "name": "Faqs",
+            "slug": "faqs",
+            "link": "/faq"
+        },
+        {
+            "name": "Gallery",
+            "slug": "gallery",
+            "link": "/gallery"
+        },
+        {
+            "name": "Contact",
+            "slug": "contact",
+            "link": "/contact"
+        }
+    ]
+}

@@ -1,5 +1,9 @@
 ---
 import HeaderLink from './HeaderLink.astro';
+
+import { getCollection } from 'astro:content';
+const menu = await getCollection('menu');
+
 import { SITE_TITLE } from '../consts';
 import LeftOffCanvas from './LeftOffcanvas.vue';
 const headerClass = ['uppercase font-medium text-white p-4 mr-2 hover:text-[#ff5e14]'];
@@ -8,18 +12,18 @@ const headerClass = ['uppercase font-medium text-white p-4 mr-2 hover:text-[#ff5
 
 <header class="bg-gray-900 py-4 px-4 sm:px-12 flex justify-between items-center">
 	<div class="flex items-center">
-		<img src="/logo.png" class="h-[30px] sm:h-[50px]" alt="Logo">
-		<div class="text-white uppercase font-medium text-xl sm:text-3xl">{SITE_TITLE}</div>
+		<a href="/" class="flex items-center">
+			<img src="/logo.png" class="h-[30px] sm:h-[50px]" alt="Logo">
+			<div class="text-white uppercase font-medium text-xl sm:text-3xl">{SITE_TITLE}</div>
+		</a>
 	</div>
-	<LeftOffCanvas client:load />
+	<div class="sm:hidden">
+		<LeftOffCanvas menu={menu} client:load />
+	</div>
 	<nav class="hidden sm:flex justify-end items-center">
-			<HeaderLink class:list={headerClass} href="/">Home</HeaderLink>
-			<HeaderLink class:list={headerClass} href="/about">About us</HeaderLink>
-			<HeaderLink class:list={headerClass} href="/projects">Projects</HeaderLink>
-			<HeaderLink class:list={headerClass} href="/services">Services</HeaderLink>
-			<HeaderLink class:list={headerClass} href="/faq">FAQS</HeaderLink>
-			<HeaderLink class:list={headerClass} href="/gallery">Gallery</HeaderLink>
-			<HeaderLink class:list={headerClass} href="/contact">Contact</HeaderLink>
+			{menu.map(item => (
+				<HeaderLink class:list={headerClass} href={item.data.link}>{item.data.name}</HeaderLink>
+			))}
 			<div>
 				<a href="/call" class="uppercase font-medium text-white p-4 mr-2 bg-[#ff5e14]">Call now</a>
 			</div>

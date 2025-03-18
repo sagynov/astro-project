@@ -1,0 +1,11 @@
+---
+import GalleryList from "./GalleryList.vue";
+import { getCollection } from 'astro:content';
+const gallery = await getCollection('gallery');
+---
+<div class="p-4 sm:p-12">
+    <div class="mb-4">
+		<h3 class="text-white font-medium uppercase">Gallery</h3>
+	</div>
+    <GalleryList gallery={gallery}  client:load />
+</div>

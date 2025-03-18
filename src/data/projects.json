@@ -10,6 +10,16 @@
                     "src": "/projects/1.jpg",
                     "alt": "Description for Image 1",
                     "title": "Title 1"
+                },
+                {
+                    "src": "/projects/11.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/12.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
                 }
             ]
         },
@@ -17,10 +27,15 @@
             "image": "/projects/2.jpg",
             "title": "Custom Structures",
             "slug": "project-2",
-            "description": "Description 2",
+            "description": "At CA Custom Homes, we understand that your home is a reflection of your unique style and personality. It is where you create lifelong memories and retreat from the world, making it essential to have a space that truly embodies your vision. With our expertise in custom construction and a passion for bringing dreams to life, we transform ordinary spaces into extraordinary works of art.",
             "gallery": [
                 {
                     "src": "/projects/2.jpg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/21.jpeg",
                     "alt": "Description for Image 1",
                     "title": "Title 1"
                 }
@@ -30,10 +45,25 @@
             "image": "/projects/3.jpg",
             "title": "Amazing Final Constructions",
             "slug": "project-3",
-            "description": "Description 3",
+            "description": "Our team of highly skilled professionals consists of master craftsmen, experienced designers, and dedicated artisans who possess a deep understanding of the intricacies involved in creating bespoke structures. From the initial consultation to the final installation, we collaborate closely with you to ensure that every aspect of your project aligns seamlessly with your desires and functional requirements.",
             "gallery": [
                 {
                     "src": "/projects/3.jpg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/31.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/32.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/33.jpeg",
                     "alt": "Description for Image 1",
                     "title": "Title 1"
                 }
@@ -43,10 +73,15 @@
             "image": "/projects/4.jpg",
             "title": "An opportunity to transform",
             "slug": "project-4",
-            "description": "Description 4",
+            "description": "At CA Custom Homes, we believe that every project is an opportunity to transform your living spaces into extraordinary works of art. We are dedicated to providing unparalleled craftsmanship, personalized service, and an unwavering commitment to exceeding your expectations. With our passion for creating bespoke structures, we bring your vision to life, ensuring that your home is a true reflection of your individuality and taste.",
             "gallery": [
                 {
                     "src": "/projects/4.jpg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/41.jpeg",
                     "alt": "Description for Image 1",
                     "title": "Title 1"
                 }

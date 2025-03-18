@@ -33,7 +33,6 @@ const gallery = defineCollection({
         image: z.string(),
         title: z.string(),
         slug: z.string(),
-        description: z.string(),
     }),
 });
 
@@ -47,4 +46,22 @@ const services = defineCollection({
     }),
 });
 
-export const collections = { blog, projects, gallery, services };
+const faqs = defineCollection({
+    loader: file("src/data/faqs.json",  { parser: (text) => JSON.parse(text).faqs }),
+    schema: z.object({
+        question: z.string(),
+        answer: z.string(),
+        slug: z.string(),
+    }),
+});
+
+const menu = defineCollection({
+    loader: file("src/data/menu.json",  { parser: (text) => JSON.parse(text).menu }),
+    schema: z.object({
+        name: z.string(),
+        slug: z.string(),
+        link: z.string(),
+    }),
+});
+
+export const collections = { blog, projects, gallery, services, faqs, menu };

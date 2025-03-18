@@ -1,0 +1,49 @@
+{
+    "faqs": [
+        {
+            "question": "How long has CA Custom Homes been in business?",
+            "slug": "question-1",
+            "answer": "CA Custom Homes has been proudly serving clients with exceptional custom construction services since our establishment in 2012."
+        },
+        {
+            "question": "What types of projects does CA Custom Homes undertake?",
+            "slug": "question-2",
+            "answer": "We specialize in a wide range of projects, including custom trim work, woodworking, cabinets, decks, architectural design, interior design, urban design, 3D modeling, decor planning, and comprehensive project planning."
+        },
+        {
+            "question": "Are you licensed and insured?",
+            "slug": "question-3",
+            "answer": "Yes, CA Custom Homes is fully licensed and insured to provide our clients with peace of mind throughout the entire construction process. In New York and Connecticut"
+        },
+        {
+            "question": "How involved will I be in the design process?",
+            "slug": "question-4",
+            "answer": "We value your input and involvement in the design process. We work closely with you to understand your vision, preferences, and functional requirements to ensure that the final result aligns perfectly with your expectations."
+        },
+        {
+            "question": "Can you work within my budget?",
+            "slug": "question-5",
+            "answer": "Absolutely! We understand the importance of budget considerations. Our team will work with you to find solutions that meet your financial requirements without compromising on quality or design."
+        },
+        {
+            "question": "How long does a typical project take to complete?",
+            "slug": "question-6",
+            "answer": "The timeline for each project varies depending on its complexity, size, and other factors. We provide a detailed timeline during the planning phase to give you a clear understanding of the project's duration."
+        },
+        {
+            "question": "Can We provide references from past clients?",
+            "slug": "question-7",
+            "answer": "Yes, we are proud of our satisfied clients and can provide references upon request. We believe that our previous clients' testimonials speak to the quality and professionalism of our work."
+        },
+        {
+            "question": "Can you provide custom designs for cabinets and trim work?",
+            "slug": "question-8",
+            "answer": "Yes, we specialize in custom designs tailored to your unique preferences and specifications. Our team of experienced designers will collaborate closely with you to create personalized cabinets and trim work that enhance the beauty and functionality of your space."
+        },
+        {
+            "question": "How do I get started with a project?",
+            "slug": "question-9",
+            "answer": "To get started, simply reach out to us through our website or contact our team directly. We will schedule a consultation to discuss your project in detail and provide you with a personalized plan and quote. If you have any additional questions or inquiries, please don't hesitate to reach out to us. We are here to assist you throughout your custom construction journey with CA Custom Homes LLC."
+        }
+    ]
+}

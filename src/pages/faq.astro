@@ -1,0 +1,15 @@
+---
+import Layout from '../layouts/Default.astro';
+import FaqComponent from '../components/Faq.astro';
+import { getCollection } from 'astro:content';
+const faqs = await getCollection('faqs');
+---
+
+<Layout
+	title="Contact"
+	description="Lorem ipsum dolor sit amet"
+>
+<div class="bg-[#171717]">
+    <FaqComponent />
+</div>
+</Layout>

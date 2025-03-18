@@ -1,7 +1,14 @@
 @import "tailwindcss";
 
+@font-face {
+    font-family: 'din-condenced-web'; /*a name to be used later*/
+    src: url('/fonts/din-condenced.ttf'); /*URL to font*/
+}
+
 body {
-	overflow-x: hidden;
+	font-family: 'din-condenced-web', sans-serif;
+	overflow-x: hidden!important;
+	font-size: 20px;
 }
 h3 {
 	font-size: 22px;
@@ -46,4 +53,12 @@ h3:before {
 }
 .p-galleria-thumbnails-content {
 	background: transparent!important;
+}
+
+.p-button {
+	background: #ff5e14!important;
+	border: none!important;
+}
+.p-button-text.p-button-secondary {
+	color: #fff!important;
 }
