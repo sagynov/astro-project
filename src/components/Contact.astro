@@ -1,14 +1,31 @@
 ---
+import { Mail, MapPin, Phone } from "lucide-vue-next";
+import ContactForm from './ContactForm.vue';
 
 ---
 <div class="grid sm:grid-cols-2 p-4 sm:p-12">
     <div>
         <h3 class="text-white font-medium uppercase">Let's start a project</h3>
-        <p class="text-white">Give us a call or Chat Anytime, We will be happy to answer your questions.</p>
+        <p class="text-white mb-4">Give us a call or Chat Anytime, We will be happy to answer your questions.</p>
 
-        
+        <div class="grid gap-4">
+            <a href="tel:2039694403" class="flex text-white items-center">
+                <Phone color="#ff5e14" class="mr-2" /> 2039694403
+            </a>
+            <div class="flex text-white items-center">
+                <Mail color="#ff5e14" class="mr-2" /> cacustomhomesllc@gmail.com
+            </div>
+            <div class="flex text-white items-center">
+                <MapPin color="#ff5e14" class="mr-2" /> 97 highland rd Stamford CT 06902
+            </div>
+        </div>
+
     </div>
     <div>
         <h3 class="text-white font-medium uppercase">Get in touch</h3>
+
+        <div class="mt-4">
+            <ContactForm client:load />
+        </div>
     </div>
 </div>

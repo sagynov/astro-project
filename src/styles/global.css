@@ -57,8 +57,15 @@ h3:before {
 
 .p-button {
 	background: #ff5e14!important;
-	border: none!important;
+	border-radius: unset!important;
+	border: 2px solid #ff5e14!important;
+	@apply transition duration-150;
 }
 .p-button-text.p-button-secondary {
 	color: #fff!important;
+}
+
+.p-button:hover {
+	background-color: #171717!important;
+	border: 2px solid #ff5e14!important;
 }
