@@ -7,7 +7,7 @@ import vue from '@astrojs/vue';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://example.com',
+  site: 'https://cacustombuild.com',
   integrations: [mdx(), sitemap(), vue({ appEntrypoint: '/src/pages/_app' })],
 
   vite: {
