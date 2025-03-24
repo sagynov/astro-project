@@ -8,32 +8,32 @@
         {
             "name": "About us",
             "slug": "about-us",
-            "link": "/about"
+            "link": "/about/index.html"
         },
         {
             "name": "Projects",
             "slug": "projects",
-            "link": "/projects"
+            "link": "/projects/index.html"
         },
         {
             "name": "Services",
             "slug": "services",
-            "link": "/services"
+            "link": "/services/index.html"
         },
         {
             "name": "Faqs",
             "slug": "faqs",
-            "link": "/faq"
+            "link": "/faq/index.html"
         },
         {
             "name": "Gallery",
             "slug": "gallery",
-            "link": "/gallery"
+            "link": "/gallery/index.html"
         },
         {
             "name": "Contact",
             "slug": "contact",
-            "link": "/contact"
+            "link": "/contact/index.html"
         }
     ]
 }
