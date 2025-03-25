@@ -10,9 +10,7 @@ import compress from 'astro-compress';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://cacustombuild.com',
-  integrations: [mdx(), sitemap(), vue({ appEntrypoint: '/src/pages/_app' }), compress({
-    Path: ['./dist']
-  })],
+  integrations: [mdx(), sitemap(), vue({ appEntrypoint: '/src/pages/_app' }), compress()],
 
   vite: {
     plugins: [tailwindcss()],

@@ -6,7 +6,10 @@ import ToastService from 'primevue/toastservice';
 export default (app: App) => {
   app.use(PrimeVue, {
     theme: {
-        preset: Aura
+        preset: Aura,
+        options: {
+          darkModeSelector: false
+        }
     }
   });
   app.use(ToastService)
