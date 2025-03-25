@@ -11,9 +11,7 @@ import compress from 'astro-compress';
 export default defineConfig({
   site: 'https://cacustombuild.com',
   integrations: [mdx(), sitemap(), vue({ appEntrypoint: '/src/pages/_app' }), compress({
-    HTML: false,
-    JavaScript: false,
-    CSS: false,
+    Path: ['./dist']
   })],
 
   vite: {
