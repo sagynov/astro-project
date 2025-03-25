@@ -5,10 +5,12 @@ import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 import vue from '@astrojs/vue';
 
+import compress from 'astro-compress';
+
 // https://astro.build/config
 export default defineConfig({
   site: 'https://cacustombuild.com',
-  integrations: [mdx(), sitemap(), vue({ appEntrypoint: '/src/pages/_app' })],
+  integrations: [mdx(), sitemap(), vue({ appEntrypoint: '/src/pages/_app' }), compress()],
 
   vite: {
     plugins: [tailwindcss()],
