@@ -1,6 +1,203 @@
 {
     "projects": [
         {
+            "image": "/projects/101.jpeg",
+            "title": "Darien CT",
+            "slug": "project-101",
+            "description": "Darien CT",
+            "gallery": [
+                {
+                    "src": "/projects/101.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/102.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/103.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/104.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/105.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/106.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/107.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/108.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/109.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/110.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/111.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                }
+            ]
+        },
+        {
+            "image": "/projects/201.jpeg",
+            "title": "Norwalk CT Custom Winery",
+            "slug": "project-201",
+            "description": "Norwalk CT Custom Winery",
+            "gallery": [
+                {
+                    "src": "/projects/201.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/202.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/203.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/204.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/205.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/206.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                }
+            ]
+        },
+        {
+            "image": "/projects/301.jpeg",
+            "title": "North Salem NY",
+            "slug": "project-301",
+            "description": "North Salem NY",
+            "gallery": [
+                {
+                    "src": "/projects/301.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/302.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/303.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/304.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/305.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/306.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/307.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/308.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/309.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                }
+            ]
+        },
+        {
+            "image": "/projects/401.jpeg",
+            "title": "Millerton NY",
+            "slug": "project-401",
+            "description": "Millerton NY",
+            "gallery": [
+                {
+                    "src": "/projects/401.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/402.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/403.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/404.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/405.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/406.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/407.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                }
+            ]
+        },
+        {
             "image": "/projects/1.jpg",
             "title": "Interior Trim Woodwork",
             "slug": "project-1",
