@@ -4,7 +4,9 @@
     font-family: 'din-condenced-web'; /*a name to be used later*/
     src: url('/fonts/din-condenced.ttf'); /*URL to font*/
 }
-
+.p-carousel-indicator-active .p-carousel-indicator-button {
+	background: #ff5e14 !important;
+}
 body {
 	font-family: 'din-condenced-web', sans-serif;
 	overflow-x: hidden!important;

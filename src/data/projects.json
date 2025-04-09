@@ -1,6 +1,95 @@
 {
     "projects": [
         {
+            "image": "/projects/501.jpeg",
+            "title": "Greenwich Ct Equitone Panels",
+            "slug": "project-501",
+            "description": "Greenwich Ct Equitone Panels",
+            "gallery": [
+                {
+                    "src": "/projects/501.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/502.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/503.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/504.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/505.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/506.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/507.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/508.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/509.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                }
+            ]
+        },
+        {
+            "image": "/projects/601.jpeg",
+            "title": "Greenwich Ct",
+            "slug": "project-601",
+            "description": "Greenwich Ct",
+            "gallery": [
+                {
+                    "src": "/projects/601.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/602.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/603.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                }
+            ]
+        },
+        {
+            "image": "/projects/701.jpeg",
+            "title": "Rye Ny",
+            "slug": "project-701",
+            "description": "Rye Ny",
+            "gallery": [
+                {
+                    "src": "/projects/701.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                }
+            ]
+        },
+        {
             "image": "/projects/101.jpeg",
             "title": "Darien CT",
             "slug": "project-101",
