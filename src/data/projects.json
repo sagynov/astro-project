@@ -50,6 +50,11 @@
                     "src": "/projects/509.jpeg",
                     "alt": "Description for Image 1",
                     "title": "Title 1"
+                },
+                {
+                    "src": "/projects/510.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
                 }
             ]
         },
@@ -73,6 +78,21 @@
                     "src": "/projects/603.jpeg",
                     "alt": "Description for Image 1",
                     "title": "Title 1"
+                },
+                {
+                    "src": "/projects/604.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/605.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
+                },
+                {
+                    "src": "/projects/606.jpeg",
+                    "alt": "Description for Image 1",
+                    "title": "Title 1"
                 }
             ]
         },
@@ -90,284 +110,91 @@
             ]
         },
         {
-            "image": "/projects/101.jpeg",
-            "title": "Darien CT",
-            "slug": "project-101",
-            "description": "Darien CT",
+            "image": "/projects/801.jpeg",
+            "title": "Easton Ct 3”x8” Solid Western Red Cedar With Equitone Panels",
+            "slug": "project-801",
+            "description": "Easton Ct 3”x8” Solid Western Red Cedar With Equitone Panels",
             "gallery": [
                 {
-                    "src": "/projects/101.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/102.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/103.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/104.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/105.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/106.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/107.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/108.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/109.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/110.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/111.jpeg",
+                    "src": "/projects/801.jpeg",
                     "alt": "Description for Image 1",
                     "title": "Title 1"
                 }
             ]
         },
         {
-            "image": "/projects/201.jpeg",
-            "title": "Norwalk CT Custom Winery",
-            "slug": "project-201",
-            "description": "Norwalk CT Custom Winery",
+            "image": "/projects/901.jpeg",
+            "title": "Bedford Hills Ny",
+            "slug": "project-901",
+            "description": "Bedford Hills Ny",
             "gallery": [
                 {
-                    "src": "/projects/201.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/202.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/203.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/204.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/205.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/206.jpeg",
+                    "src": "/projects/901.jpeg",
                     "alt": "Description for Image 1",
                     "title": "Title 1"
                 }
             ]
         },
         {
-            "image": "/projects/301.jpeg",
-            "title": "North Salem NY",
-            "slug": "project-301",
-            "description": "North Salem NY",
+            "image": "/projects/1001.jpeg",
+            "title": "Rye Ny Bleached Oak Beams With Planking",
+            "slug": "project-1001",
+            "description": "Rye Ny Bleached Oak Beams With Planking",
             "gallery": [
                 {
-                    "src": "/projects/301.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/302.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/303.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/304.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/305.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/306.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/307.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/308.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/309.jpeg",
+                    "src": "/projects/1001.jpeg",
                     "alt": "Description for Image 1",
                     "title": "Title 1"
                 }
             ]
         },
         {
-            "image": "/projects/401.jpeg",
-            "title": "Millerton NY",
-            "slug": "project-401",
-            "description": "Millerton NY",
+            "image": "/projects/1101.jpeg",
+            "title": "Darien Ct Clear Cedar Custom Sauna",
+            "slug": "project-1101",
+            "description": "Darien Ct Clear Cedar Custom Sauna",
             "gallery": [
                 {
-                    "src": "/projects/401.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/402.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/403.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/404.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/405.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/406.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/407.jpeg",
+                    "src": "/projects/1101.jpeg",
                     "alt": "Description for Image 1",
                     "title": "Title 1"
                 }
             ]
         },
         {
-            "image": "/projects/1.jpg",
-            "title": "Interior Trim Woodwork",
-            "slug": "project-1",
-            "description": "CA Custom Homes, your premier destination for creating exquisite custom-built structures that elevate the aesthetics and functionality of your living spaces. With a meticulous attention to detail, expert craftsmanship, and an unwavering commitment to client satisfaction, we specialize in delivering exceptional custom trim work, woodworking, cabinets, and decks that surpass your highest expectations..",
+            "image": "/projects/1201.jpeg",
+            "title": "Darien Ct Wire Brushed White Oak Slats",
+            "slug": "project-1201",
+            "description": "Darien Ct Wire Brushed White Oak Slats",
             "gallery": [
                 {
-                    "src": "/projects/1.jpg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/11.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/12.jpeg",
+                    "src": "/projects/1201.jpeg",
                     "alt": "Description for Image 1",
                     "title": "Title 1"
                 }
             ]
         },
         {
-            "image": "/projects/2.jpg",
-            "title": "Custom Structures",
-            "slug": "project-2",
-            "description": "At CA Custom Homes, we understand that your home is a reflection of your unique style and personality. It is where you create lifelong memories and retreat from the world, making it essential to have a space that truly embodies your vision. With our expertise in custom construction and a passion for bringing dreams to life, we transform ordinary spaces into extraordinary works of art.",
+            "image": "/projects/1301.jpeg",
+            "title": "Greenwich Ct Exterior Accoya Siding",
+            "slug": "project-1301",
+            "description": "Greenwich Ct Exterior Accoya Siding",
             "gallery": [
                 {
-                    "src": "/projects/2.jpg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/21.jpeg",
+                    "src": "/projects/1301.jpeg",
                     "alt": "Description for Image 1",
                     "title": "Title 1"
                 }
             ]
         },
         {
-            "image": "/projects/3.jpg",
-            "title": "Amazing Final Constructions",
-            "slug": "project-3",
-            "description": "Our team of highly skilled professionals consists of master craftsmen, experienced designers, and dedicated artisans who possess a deep understanding of the intricacies involved in creating bespoke structures. From the initial consultation to the final installation, we collaborate closely with you to ensure that every aspect of your project aligns seamlessly with your desires and functional requirements.",
+            "image": "/projects/1401.jpeg",
+            "title": "Greenwich Ct  Exterior Treated Accoya Siding",
+            "slug": "project-1401",
+            "description": "Greenwich Ct  Exterior Treated Accoya Siding",
             "gallery": [
                 {
-                    "src": "/projects/3.jpg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/31.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/32.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/33.jpeg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                }
-            ]
-        },
-        {
-            "image": "/projects/4.jpg",
-            "title": "An opportunity to transform",
-            "slug": "project-4",
-            "description": "At CA Custom Homes, we believe that every project is an opportunity to transform your living spaces into extraordinary works of art. We are dedicated to providing unparalleled craftsmanship, personalized service, and an unwavering commitment to exceeding your expectations. With our passion for creating bespoke structures, we bring your vision to life, ensuring that your home is a true reflection of your individuality and taste.",
-            "gallery": [
-                {
-                    "src": "/projects/4.jpg",
-                    "alt": "Description for Image 1",
-                    "title": "Title 1"
-                },
-                {
-                    "src": "/projects/41.jpeg",
+                    "src": "/projects/1401.jpeg",
                     "alt": "Description for Image 1",
                     "title": "Title 1"
                 }
